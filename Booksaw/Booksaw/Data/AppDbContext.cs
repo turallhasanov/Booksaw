@@ -7,7 +7,9 @@ namespace Booksaw.Data
     {
         public DbSet<Brand> Brands { get; set; }
         public DbSet<AppDownload> AppDownloads { get; set; }
-
+        public DbSet<Book> Books { get; set; }
+        public DbSet<Category> Categories { get; set; }
+        public DbSet<BookImage> BookImages { get; set; }
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
         
     }

@@ -144,3 +144,4 @@ C:\Users\turalvh\Desktop\Booksaw\Booksaw\Booksaw\bin\Debug\net8.0\runtimes\win\l
 C:\Users\turalvh\Desktop\Booksaw\Booksaw\Booksaw\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\turalvh\Desktop\Booksaw\Booksaw\Booksaw\obj\Debug\net8.0\Booksaw.csproj.AssemblyReference.cache
 C:\Users\turalvh\Desktop\Booksaw\Booksaw\Booksaw\obj\Debug\net8.0\Booksaw.csproj.Up2Date
+C:\Users\turalvh\Desktop\Booksaw\Booksaw\Booksaw\obj\Debug\net8.0\Booksaw.sourcelink.json
