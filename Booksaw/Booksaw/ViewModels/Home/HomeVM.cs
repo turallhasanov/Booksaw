@@ -1,12 +1,16 @@
 ﻿using Booksaw.Models;
+using Booksaw.ViewModels.Book;
+using Booksaw.ViewModels.Brand;
+using Booksaw.ViewModels.Quotation;
 
 namespace Booksaw.ViewModels.Home
 {
     public class HomeVM
     {
-        public IEnumerable<Brand> Brands { get; set; }
+        public IEnumerable<BrandUIVM> Brands { get; set; }
         public IEnumerable<Category> Categories { get; set; }
-        public IEnumerable<Book> Books { get; set; }
+        public IEnumerable<BookUIVM> Books { get; set; }
         public IEnumerable<BookImage> BookImages { get; set; }
+        public QuotationUIVM Quotations { get; set; }
     }
 }

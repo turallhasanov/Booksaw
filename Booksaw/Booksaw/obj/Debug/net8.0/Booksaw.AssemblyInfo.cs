@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Booksaw")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac291753a98bcafa1c71fea024115d4a15062ef1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2e3dd1a6de0f8b631805d92487d69d80ae9733a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Booksaw")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Booksaw")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
