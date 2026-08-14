@@ -22,10 +22,15 @@ namespace Booksaw.Services
                 Name = m.Name,
                 Price = m.Price,
                 MainImage = m.BookImages.FirstOrDefault(m => m.IsMain).Image,
-                IsFeatured = m.IsFeatured
+                IsFeatured = m.IsFeatured,
+                IsOffer = m.IsOffer,
+                BestSelling = m.BestSelling
+
             }).ToListAsync();
 
             return books;
         }
+
+
     }
 }

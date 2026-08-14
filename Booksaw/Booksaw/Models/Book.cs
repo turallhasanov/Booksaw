@@ -10,5 +10,8 @@
         public IEnumerable<BookImage> BookImages { get; set; }
         public int CategoryId { get; set; }
         public Category Category { get; set; }
+        public bool IsOffer { get; set; }
+
+        public int BestSelling { get; set; }
     }
 }
