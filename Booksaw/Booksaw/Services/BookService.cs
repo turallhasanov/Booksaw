@@ -15,7 +15,7 @@ namespace Booksaw.Services
 
         public async Task<IEnumerable<BookUIVM>> GetAllUIAsync()
         {
-            IEnumerable<BookUIVM> books = await _context.Books.Include(n => n.BookImages).Select(m => new BookUIVM()
+            IEnumerable<BookUIVM> books = await _context.Books.Include(m=>m.Category).Include(n => n.BookImages).Select(m => new BookUIVM()
             {
                 Id = m.Id,
                 Description = m.Description,
@@ -24,6 +24,7 @@ namespace Booksaw.Services
                 MainImage = m.BookImages.FirstOrDefault(m => m.IsMain).Image,
                 IsFeatured = m.IsFeatured,
                 IsOffer = m.IsOffer,
+                CategoryName = m.Category.Name,
                 BestSelling = m.BestSelling
 
             }).ToListAsync();

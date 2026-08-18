@@ -11,6 +11,7 @@ namespace Booksaw.Data
         public DbSet<Category> Categories { get; set; }
         public DbSet<BookImage> BookImages { get; set; }
         public DbSet<Quotation> Quotations { get; set; }
+        public DbSet<Setting> Settings { get; set; }
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
         
     }

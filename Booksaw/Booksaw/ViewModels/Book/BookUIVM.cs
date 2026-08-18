@@ -8,6 +8,7 @@
         public decimal Price { get; set; }
         public string MainImage { get; set; }
         public bool IsFeatured { get; set; }
+        public string CategoryName { get; set; }
 
         public bool IsOffer { get; set; }
 

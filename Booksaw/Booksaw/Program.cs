@@ -10,6 +10,8 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 builder.Services.AddScoped<IBookService, BookService>();
 builder.Services.AddScoped<IBrandService, BrandService>();
 builder.Services.AddScoped<IQuotationService, QuotationService>();
+builder.Services.AddScoped<ICategoryService, CategoryService>();
+builder.Services.AddScoped<ISettingService, SettingService>();
 builder.Services.AddControllersWithViews();
 var app = builder.Build();
 app.UseStaticFiles();
