@@ -3,32 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|c:\\users\\turalvh\\desktop\\booksaw\\booksaw\\booksaw\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|solutionrelative:booksaw\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|c:\\users\\turalvh\\desktop\\booksaw\\booksaw\\booksaw\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|solutionrelative:booksaw\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|c:\\users\\turalvh\\desktop\\booksaw\\booksaw\\booksaw\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|solutionrelative:booksaw\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|c:\\users\\turalvh\\desktop\\booksaw\\booksaw\\booksaw\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|solutionrelative:booksaw\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|c:\\users\\turalvh\\desktop\\booksaw\\booksaw\\booksaw\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|solutionrelative:booksaw\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|c:\\users\\turalvh\\desktop\\booksaw\\booksaw\\booksaw\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|solutionrelative:booksaw\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|c:\\users\\turalvh\\desktop\\booksaw\\booksaw\\booksaw\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|solutionrelative:booksaw\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|c:\\users\\turalvh\\desktop\\booksaw\\booksaw\\booksaw\\viewcomponents\\billboardviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|solutionrelative:booksaw\\viewcomponents\\billboardviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|c:\\users\\turalvh\\desktop\\booksaw\\booksaw\\booksaw\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|solutionrelative:booksaw\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|c:\\users\\turalvh\\desktop\\booksaw\\booksaw\\booksaw\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|solutionrelative:booksaw\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|c:\\users\\turalvh\\desktop\\booksaw\\booksaw\\booksaw\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|solutionrelative:booksaw\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|c:\\users\\turalvh\\desktop\\booksaw\\booksaw\\booksaw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|solutionrelative:booksaw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|c:\\users\\turalvh\\desktop\\booksaw\\booksaw\\booksaw\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|solutionrelative:booksaw\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|c:\\users\\turalvh\\desktop\\booksaw\\booksaw\\booksaw\\views\\shared\\components\\billboard\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|solutionrelative:booksaw\\views\\shared\\components\\billboard\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|c:\\users\\turalvh\\desktop\\booksaw\\booksaw\\booksaw\\booksaw.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|solutionrelative:booksaw\\booksaw.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|c:\\users\\turalvh\\desktop\\booksaw\\booksaw\\booksaw\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|solutionrelative:booksaw\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|c:\\users\\turalvh\\desktop\\booksaw\\booksaw\\booksaw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|solutionrelative:booksaw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|c:\\users\\turalvh\\desktop\\booksaw\\booksaw\\booksaw\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|solutionrelative:booksaw\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|c:\\users\\turalvh\\desktop\\booksaw\\booksaw\\booksaw\\viewcomponents\\billboardviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|solutionrelative:booksaw\\viewcomponents\\billboardviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|c:\\users\\turalvh\\desktop\\booksaw\\booksaw\\booksaw\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|solutionrelative:booksaw\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|c:\\users\\turalvh\\desktop\\booksaw\\booksaw\\booksaw\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|solutionrelative:booksaw\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|c:\\users\\turalvh\\desktop\\booksaw\\booksaw\\booksaw\\booksaw.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|solutionrelative:booksaw\\booksaw.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|c:\\users\\turalvh\\desktop\\booksaw\\booksaw\\booksaw\\services\\settingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,20 +79,8 @@
       "RelativeMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|solutionrelative:booksaw\\services\\interfaces\\isettingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Migrations\\20260818065850_rwgwgwgw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Booksaw\\Migrations\\20260818065850_rwgwgwgw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|c:\\users\\turalvh\\desktop\\booksaw\\booksaw\\booksaw\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|solutionrelative:booksaw\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|c:\\users\\turalvh\\desktop\\booksaw\\booksaw\\booksaw\\models\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|solutionrelative:booksaw\\models\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|c:\\users\\turalvh\\desktop\\booksaw\\booksaw\\booksaw\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|solutionrelative:booksaw\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|c:\\users\\turalvh\\desktop\\booksaw\\booksaw\\booksaw\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -168,6 +196,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|c:\\users\\turalvh\\desktop\\booksaw\\booksaw\\booksaw\\migrations\\20260814081021_createdtableoffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|solutionrelative:booksaw\\migrations\\20260814081021_createdtableoffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|c:\\users\\turalvh\\desktop\\booksaw\\booksaw\\booksaw\\migrations\\20260818065850_rwgwgwgw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FD4C98-8E2C-4319-B6C8-A2B4201CCF06}|Booksaw\\Booksaw.csproj|solutionrelative:booksaw\\migrations\\20260818065850_rwgwgwgw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -177,216 +209,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BillboardViewComponent.cs",
-              "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\ViewComponents\\BillboardViewComponent.cs",
-              "RelativeDocumentMoniker": "Booksaw\\ViewComponents\\BillboardViewComponent.cs",
-              "ToolTip": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\ViewComponents\\BillboardViewComponent.cs",
-              "RelativeToolTip": "Booksaw\\ViewComponents\\BillboardViewComponent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-18T07:23:43.204Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Views\\Shared\\Components\\Billboard\\Default.cshtml",
-              "RelativeDocumentMoniker": "Booksaw\\Views\\Shared\\Components\\Billboard\\Default.cshtml",
-              "ToolTip": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Views\\Shared\\Components\\Billboard\\Default.cshtml",
-              "RelativeToolTip": "Booksaw\\Views\\Shared\\Components\\Billboard\\Default.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Booksaw\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Booksaw\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC0AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-18T07:22:03.558Z",
+              "WhenOpened": "2026-08-19T08:27:45.959Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Booksaw",
-              "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Booksaw.csproj",
-              "RelativeDocumentMoniker": "Booksaw\\Booksaw.csproj",
-              "ToolTip": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Booksaw.csproj",
-              "RelativeToolTip": "Booksaw\\Booksaw.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-18T07:19:39.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Booksaw\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Booksaw\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-18T05:57:52.155Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ISettingService.cs",
-              "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Services\\Interfaces\\ISettingService.cs",
-              "RelativeDocumentMoniker": "Booksaw\\Services\\Interfaces\\ISettingService.cs",
-              "ToolTip": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Services\\Interfaces\\ISettingService.cs",
-              "RelativeToolTip": "Booksaw\\Services\\Interfaces\\ISettingService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Booksaw\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Booksaw\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-18T06:59:23.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SettingService.cs",
-              "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Services\\SettingService.cs",
-              "RelativeDocumentMoniker": "Booksaw\\Services\\SettingService.cs",
-              "ToolTip": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Services\\SettingService.cs",
-              "RelativeToolTip": "Booksaw\\Services\\SettingService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-18T06:59:19.011Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Booksaw\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Booksaw\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgCAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-11T05:55:57.728Z",
+              "WhenOpened": "2026-08-19T08:26:52.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Booksaw\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Booksaw\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Booksaw\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Booksaw\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAABQBAAAAAAAAAAAAAB8BAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-11T05:55:33.105Z",
+              "WhenOpened": "2026-08-19T07:40:17.764Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20260818065850_rwgwgwgw.cs",
-              "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Migrations\\20260818065850_rwgwgwgw.cs",
-              "RelativeDocumentMoniker": "Booksaw\\Migrations\\20260818065850_rwgwgwgw.cs",
-              "ToolTip": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Migrations\\20260818065850_rwgwgwgw.cs",
-              "RelativeToolTip": "Booksaw\\Migrations\\20260818065850_rwgwgwgw.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Booksaw\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Booksaw\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-18T06:58:50.39Z",
+              "WhenOpened": "2026-08-19T05:39:11.443Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Setting.cs",
-              "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Models\\Setting.cs",
-              "RelativeDocumentMoniker": "Booksaw\\Models\\Setting.cs",
-              "ToolTip": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Models\\Setting.cs",
-              "RelativeToolTip": "Booksaw\\Models\\Setting.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-18T06:57:11.713Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Services\\CategoryService.cs",
-              "RelativeDocumentMoniker": "Booksaw\\Services\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Services\\CategoryService.cs",
-              "RelativeToolTip": "Booksaw\\Services\\CategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-18T05:40:49.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Program.cs",
               "RelativeDocumentMoniker": "Booksaw\\Program.cs",
               "ToolTip": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Program.cs",
               "RelativeToolTip": "Booksaw\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-13T07:36:59.794Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "dbo.Categories [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/JUPITER17_MAIN/BooksawDB/True/SqlTable/dbo.Categories.sql",
-              "ToolTip": "dbo.Categories [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-08-18T06:46:26.899Z",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Booksaw\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Booksaw\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAowO4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-19T05:36:50.434Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Booksaw\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Booksaw\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAYwCkAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-11T05:48:48.702Z",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Booksaw\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Booksaw\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-19T05:37:35.212Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "Booksaw\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Models\\Book.cs",
-              "RelativeToolTip": "Booksaw\\Models\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-11T05:31:36.491Z",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Booksaw\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Booksaw\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgCAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-11T05:55:57.728Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "BookUIVM.cs",
-              "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\ViewModels\\Book\\BookUIVM.cs",
-              "RelativeDocumentMoniker": "Booksaw\\ViewModels\\Book\\BookUIVM.cs",
-              "ToolTip": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\ViewModels\\Book\\BookUIVM.cs",
-              "RelativeToolTip": "Booksaw\\ViewModels\\Book\\BookUIVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-13T06:53:27.312Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Booksaw\\Data\\AppDbContext.cs",
@@ -399,7 +330,107 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Views\\Shared\\Components\\Billboard\\Default.cshtml",
+              "RelativeDocumentMoniker": "Booksaw\\Views\\Shared\\Components\\Billboard\\Default.cshtml",
+              "ToolTip": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Views\\Shared\\Components\\Billboard\\Default.cshtml",
+              "RelativeToolTip": "Booksaw\\Views\\Shared\\Components\\Billboard\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-18T07:22:03.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Booksaw\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Booksaw\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-19T05:37:47.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Booksaw\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Booksaw\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-11T05:55:33.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Booksaw\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Booksaw\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-08-19T05:34:52.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BillboardViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\ViewComponents\\BillboardViewComponent.cs",
+              "RelativeDocumentMoniker": "Booksaw\\ViewComponents\\BillboardViewComponent.cs",
+              "ToolTip": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\ViewComponents\\BillboardViewComponent.cs",
+              "RelativeToolTip": "Booksaw\\ViewComponents\\BillboardViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T07:23:43.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Booksaw.csproj",
+              "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Booksaw.csproj",
+              "RelativeDocumentMoniker": "Booksaw\\Booksaw.csproj",
+              "ToolTip": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Booksaw.csproj",
+              "RelativeToolTip": "Booksaw\\Booksaw.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-18T07:19:39.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Booksaw\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Booksaw\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-18T05:57:52.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SettingService.cs",
+              "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Services\\SettingService.cs",
+              "RelativeDocumentMoniker": "Booksaw\\Services\\SettingService.cs",
+              "ToolTip": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Services\\SettingService.cs",
+              "RelativeToolTip": "Booksaw\\Services\\SettingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T06:59:19.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "BookService.cs",
               "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Services\\BookService.cs",
               "RelativeDocumentMoniker": "Booksaw\\Services\\BookService.cs",
@@ -407,12 +438,104 @@
               "RelativeToolTip": "Booksaw\\Services\\BookService.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAuwCAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-13T06:48:44.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-13T06:48:44.257Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
+              "Title": "ISettingService.cs",
+              "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Services\\Interfaces\\ISettingService.cs",
+              "RelativeDocumentMoniker": "Booksaw\\Services\\Interfaces\\ISettingService.cs",
+              "ToolTip": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Services\\Interfaces\\ISettingService.cs",
+              "RelativeToolTip": "Booksaw\\Services\\Interfaces\\ISettingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T06:59:23.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20260818065850_rwgwgwgw.cs",
+              "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Migrations\\20260818065850_rwgwgwgw.cs",
+              "RelativeDocumentMoniker": "Booksaw\\Migrations\\20260818065850_rwgwgwgw.cs",
+              "ToolTip": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Migrations\\20260818065850_rwgwgwgw.cs",
+              "RelativeToolTip": "Booksaw\\Migrations\\20260818065850_rwgwgwgw.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T06:58:50.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Setting.cs",
+              "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Models\\Setting.cs",
+              "RelativeDocumentMoniker": "Booksaw\\Models\\Setting.cs",
+              "ToolTip": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Models\\Setting.cs",
+              "RelativeToolTip": "Booksaw\\Models\\Setting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T06:57:11.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Booksaw\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Booksaw\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T05:40:49.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "dbo.Categories.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/JUPITER17_MAIN/BooksawDB/True/SqlTable/dbo.Categories.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/JUPITER17_MAIN/BooksawDB/True/SqlTable/dbo.Categories.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-08-18T06:46:26.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Booksaw\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Booksaw\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwCkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T05:48:48.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Booksaw\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Models\\Book.cs",
+              "RelativeToolTip": "Booksaw\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T05:31:36.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BookUIVM.cs",
+              "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\ViewModels\\Book\\BookUIVM.cs",
+              "RelativeDocumentMoniker": "Booksaw\\ViewModels\\Book\\BookUIVM.cs",
+              "ToolTip": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\ViewModels\\Book\\BookUIVM.cs",
+              "RelativeToolTip": "Booksaw\\ViewModels\\Book\\BookUIVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T06:53:27.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "HomeVM.cs",
               "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\ViewModels\\Home\\HomeVM.cs",
               "RelativeDocumentMoniker": "Booksaw\\ViewModels\\Home\\HomeVM.cs",
@@ -420,12 +543,11 @@
               "RelativeToolTip": "Booksaw\\ViewModels\\Home\\HomeVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-11T05:52:46.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-11T05:52:46.013Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 26,
               "Title": "BrandService.cs",
               "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Services\\BrandService.cs",
               "RelativeDocumentMoniker": "Booksaw\\Services\\BrandService.cs",
@@ -433,12 +555,11 @@
               "RelativeToolTip": "Booksaw\\Services\\BrandService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-13T06:49:09.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-13T06:49:09.075Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 27,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Services\\Interfaces\\ICategoryService.cs",
               "RelativeDocumentMoniker": "Booksaw\\Services\\Interfaces\\ICategoryService.cs",
@@ -446,12 +567,11 @@
               "RelativeToolTip": "Booksaw\\Services\\Interfaces\\ICategoryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-18T05:40:59.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-18T05:40:59.495Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 28,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Booksaw\\Models\\Category.cs",
@@ -459,12 +579,11 @@
               "RelativeToolTip": "Booksaw\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-11T05:31:53.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-11T05:31:53.724Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 29,
               "Title": "CategoryUIVM.cs",
               "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\ViewModels\\Categories\\CategoryUIVM.cs",
               "RelativeDocumentMoniker": "Booksaw\\ViewModels\\Categories\\CategoryUIVM.cs",
@@ -472,12 +591,11 @@
               "RelativeToolTip": "Booksaw\\ViewModels\\Categories\\CategoryUIVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-18T05:43:15.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-18T05:43:15.07Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 32,
               "Title": "normalize.css",
               "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\wwwroot\\css\\normalize.css",
               "RelativeDocumentMoniker": "Booksaw\\wwwroot\\css\\normalize.css",
@@ -489,7 +607,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 31,
               "Title": "style.css",
               "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\wwwroot\\style.css",
               "RelativeDocumentMoniker": "Booksaw\\wwwroot\\style.css",
@@ -501,7 +619,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 30,
               "Title": "vendor.css",
               "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\wwwroot\\css\\vendor.css",
               "RelativeDocumentMoniker": "Booksaw\\wwwroot\\css\\vendor.css",
@@ -513,7 +631,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 48,
               "Title": "20260814083550_createdtablebestselling.cs",
               "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Migrations\\20260814083550_createdtablebestselling.cs",
               "RelativeDocumentMoniker": "Booksaw\\Migrations\\20260814083550_createdtablebestselling.cs",
@@ -525,7 +643,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 49,
               "Title": "20260814081021_createdtableoffer.cs",
               "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Migrations\\20260814081021_createdtableoffer.cs",
               "RelativeDocumentMoniker": "Booksaw\\Migrations\\20260814081021_createdtableoffer.cs",
@@ -537,7 +655,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 33,
               "Title": "Quotation.cs",
               "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Models\\Quotation.cs",
               "RelativeDocumentMoniker": "Booksaw\\Models\\Quotation.cs",
@@ -549,7 +667,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 34,
               "Title": "BrandUIVM.cs",
               "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\ViewModels\\Brand\\BrandUIVM.cs",
               "RelativeDocumentMoniker": "Booksaw\\ViewModels\\Brand\\BrandUIVM.cs",
@@ -561,7 +679,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 35,
               "Title": "QuotationService.cs",
               "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Services\\QuotationService.cs",
               "RelativeDocumentMoniker": "Booksaw\\Services\\QuotationService.cs",
@@ -573,7 +691,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 36,
               "Title": "IQuotationService.cs",
               "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Services\\Interfaces\\IQuotationService.cs",
               "RelativeDocumentMoniker": "Booksaw\\Services\\Interfaces\\IQuotationService.cs",
@@ -585,7 +703,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 47,
               "Title": "20260813074714_CreatedQuotation.cs",
               "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Migrations\\20260813074714_CreatedQuotation.cs",
               "RelativeDocumentMoniker": "Booksaw\\Migrations\\20260813074714_CreatedQuotation.cs",
@@ -597,7 +715,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 37,
               "Title": "dbo.Quotations.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/JUPITER17_MAIN/BooksawDB/True/SqlTable/dbo.Quotations.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/JUPITER17_MAIN/BooksawDB/True/SqlTable/dbo.Quotations.sql",
@@ -606,7 +724,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 38,
               "Title": "QuotationUIVM.cs",
               "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\ViewModels\\Quotation\\QuotationUIVM.cs",
               "RelativeDocumentMoniker": "Booksaw\\ViewModels\\Quotation\\QuotationUIVM.cs",
@@ -618,7 +736,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 39,
               "Title": "IBrandService.cs",
               "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Services\\Interfaces\\IBrandService.cs",
               "RelativeDocumentMoniker": "Booksaw\\Services\\Interfaces\\IBrandService.cs",
@@ -630,7 +748,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 41,
               "Title": "BookImage.cs",
               "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Models\\BookImage.cs",
               "RelativeDocumentMoniker": "Booksaw\\Models\\BookImage.cs",
@@ -642,7 +760,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 40,
               "Title": "IBookService.cs",
               "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Services\\Interfaces\\IBookService.cs",
               "RelativeDocumentMoniker": "Booksaw\\Services\\Interfaces\\IBookService.cs",
@@ -654,7 +772,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 42,
               "Title": "dbo.BookImages.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/JUPITER17_MAIN/BooksawDB/True/SqlTable/dbo.BookImages.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/JUPITER17_MAIN/BooksawDB/True/SqlTable/dbo.BookImages.sql",
@@ -663,16 +781,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "dbo.Books [Data]",
+              "DocumentIndex": 43,
+              "Title": "dbo.Books.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/JUPITER17_MAIN/BooksawDB/True/SqlTable/dbo.Books.sql",
-              "ToolTip": "dbo.Books [Data]",
+              "ToolTip": "ViewDataWindow_MSSQL__/JUPITER17_MAIN/BooksawDB/True/SqlTable/dbo.Books.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2026-08-11T08:17:51.558Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 44,
               "Title": "dbo.AppDownloads.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/JUPITER17_MAIN/BooksawDB/True/SqlTable/dbo.AppDownloads.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/JUPITER17_MAIN/BooksawDB/True/SqlTable/dbo.AppDownloads.sql",
@@ -681,7 +799,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 45,
               "Title": "20260811081739_Creaaade.cs",
               "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Migrations\\20260811081739_Creaaade.cs",
               "RelativeDocumentMoniker": "Booksaw\\Migrations\\20260811081739_Creaaade.cs",
@@ -693,7 +811,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 46,
               "Title": "20260811054611_CreatednewTable.cs",
               "DocumentMoniker": "C:\\Users\\turalvh\\Desktop\\Booksaw\\Booksaw\\Booksaw\\Migrations\\20260811054611_CreatednewTable.cs",
               "RelativeDocumentMoniker": "Booksaw\\Migrations\\20260811054611_CreatednewTable.cs",
