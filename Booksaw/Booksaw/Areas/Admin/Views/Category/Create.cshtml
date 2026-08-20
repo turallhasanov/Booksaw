@@ -1,0 +1,24 @@
+﻿@model CategoryCreateVM
+
+<div class="container mt-4" style="max-width: 500px;">
+    <h2>Add New Category</h2>
+    <hr />
+
+    <form asp-controller="Category" asp-action="Create" method="post">
+        
+        <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+       
+        <div class="mb-3">
+            <label asp-for="Name" class="form-label">Category Name</label>
+            <input asp-for="Name" class="form-control" placeholder="New Caregory Name"  />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+
+        
+        <div class="d-flex gap-2">
+            <button type="submit" class="btn btn-success">Save (Submit)</button>
+            <a asp-controller="Category" asp-action="Index" class="btn btn-secondary"> Cancel</a>
+        </div>
+    </form>
+</div>
