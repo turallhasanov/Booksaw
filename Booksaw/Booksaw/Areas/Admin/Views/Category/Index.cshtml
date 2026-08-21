@@ -20,8 +20,11 @@
                             <tr>
                                 <td>@item.Name</td>
                                 <td>
-                                    <a class="badge badge-primary"> Detail </a>
-                                    <a class="badge badge-danger"> Delete </a>
+                                    <a asp-action="Detail" asp-route-id="@item.Id" class="badge badge-primary"> Detail </a>
+                                    <form class="d-inline" method="post" asp-action="Delete" asp-route-id="@item.Id">
+                                        <button type="submit" class="badge badge-danger"> Delete </button>
+                                    </form>
+
                                     <a class="badge badge-warning"> Edit </a>
                                 <td>
                             </tr>

@@ -6,5 +6,9 @@ namespace Booksaw.Services.Interfaces
     {
          Task<IEnumerable<CategoryUIVM>> GetAllUIAsync();
          Task CreateAsync(CategoryCreateVM category);
+
+        Task<CategoryDetailVM> GetDetailAsync(int id);
+        Task DeleteAsync(int id);
+        Task<bool> ExistAsync(string name);
     }
 }

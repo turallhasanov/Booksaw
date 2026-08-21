@@ -22,6 +22,22 @@ namespace Booksaw.Services
             await _appDbContext.SaveChangesAsync();
         }
 
+        public async Task DeleteAsync(int id)
+        {
+            var category = await _appDbContext.Categories.FindAsync(id);
+            if (category is null)
+            {
+                Console.WriteLine("Category Not Found");
+            }
+            _appDbContext.Categories.Remove(category);
+            await _appDbContext.SaveChangesAsync();
+        }
+
+        public async Task<bool> ExistAsync(string name)
+        {
+            return await _appDbContext.Categories.AnyAsync(m => m.Name.Equals(name.Trim(), StringComparison.OrdinalIgnoreCase));
+        }
+
         public async Task<IEnumerable<CategoryUIVM>> GetAllUIAsync()
         {
             return await _appDbContext.Categories.Select(m => new CategoryUIVM
@@ -31,5 +47,18 @@ namespace Booksaw.Services
 
             }).ToListAsync();
         }
+
+        public async Task<CategoryDetailVM> GetDetailAsync(int id)
+        {
+            var category = await _appDbContext.Categories.FindAsync(id);
+            if (category is null)
+            {
+                Console.WriteLine("Category Not Found");
+            }
+
+            return new CategoryDetailVM { Name = category.Name };
+        }
+
+        
     }
 }
